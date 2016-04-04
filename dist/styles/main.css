@@ -4,34 +4,24 @@ ul {
   padding: 0;
   background-color: #9B1811;
   width: 500px;
-  margin: 0 auto;
-
-}
+  margin: 0 auto; }
 
 li {
   display: inline-block;
   margin-left: 20px;
   font-family: fantasy;
-  color: #0439f7;
-}
+  color: #0439f7; }
 
 .character {
   width: 500px;
-  margin: 0 auto;
-
-  img {
+  margin: 0 auto; }
+  .character img {
     width: 488px;
-    border: 6px solid #0439f7;
-  }
-
-  h1 {
+    border: 6px solid #0439f7; }
+  .character h1 {
     text-align: center;
     text-shadow: 4px 4px 4px black;
     color: #9B1811;
-    font-size: 3rem;
-  }
-
-  p {
-    line-height: 2rem;
-  }
-}
+    font-size: 3rem; }
+  .character p {
+    line-height: 2rem; }
